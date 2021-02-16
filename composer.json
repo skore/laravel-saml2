@@ -19,7 +19,7 @@
         "php": ">=5.5.0",
         "ext-openssl": "*",
         "illuminate/support": ">=5.0.0",
-        "onelogin/php-saml": "dev-master#7b4d4a6df94a782b4688ebb3d9c6a1334258376c"
+        "onelogin/php-saml": "dev-v3.6.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
@@ -41,7 +41,7 @@
     "repositories": [
         {
             "type":"vcs",
-            "url": "https://github.com/onelogin/php-saml.git"
+            "url": "https://github.com/skore/php-saml.git"
         }
     ]
 }
